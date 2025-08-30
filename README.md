@@ -39,7 +39,7 @@ It allows users to enter their weight and height, validates the input, and displ
 
 4. Run the script:
     ```bash
-    python bmi_calculator.py
+    python BMI_Calculator.py
     ```
 
 ## 🛠 How It Works
